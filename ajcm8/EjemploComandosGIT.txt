@@ -1,0 +1,4 @@
+git checkout branch
+git clone url
+git push nombre url
+git commit -m mensajeCommit

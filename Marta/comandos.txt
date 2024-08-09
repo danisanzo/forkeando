@@ -1,0 +1,4 @@
+git clone [repositorio]
+git branch 
+git branch nombrerama
+git checkout nombrerama

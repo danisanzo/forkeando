@@ -1,0 +1,8 @@
+
+git add .
+
+git commit -m 'descripción commit'
+
+git remote -v
+
+git clone <url> 

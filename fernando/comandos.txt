@@ -1,0 +1,4 @@
+git merche (rama que quieres fusionar)--> Con esto harás una fusión de ramas en Git.
+git log --oneline--> Con este comando saldrán todos los commits hechos hasta la fecha en una sola línea.
+git push (alias) (rama)-->Con esto subirás la rama que quieras de tu repositorio a la nube.
+git add . --> Con esto se añaden todos los cambios hechos en el repositorio a la staging area. 
